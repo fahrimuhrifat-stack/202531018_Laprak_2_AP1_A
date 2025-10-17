@@ -6,7 +6,7 @@ int main() {
     int umurpenonton;
     
     // 2. Minta input umur dari penonton
-    cout << "Masukkan umur para penonton: ";
+    cout << "Masukkan umur penonton: ";
     cin >> umurpenonton ;
     
 if (umurpenonton >= 21) {
